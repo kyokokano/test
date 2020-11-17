@@ -163,6 +163,7 @@ CSSにおける長さの単位で正しくないのは次のどれか？
 
 ```java
 import java.util.*;
+＊＊中略＊＊
 int ran = new Random().nextInt(100)+1; 
 if(ran > 50){
  System.out.println("当たりです");
@@ -170,7 +171,7 @@ if(ran > 50){
  System.out.println("はずれです");
 }
 ```
-ranで出力される数字の範囲を答えよ  
+ranで出力される乱数の範囲を答えよ  
 
 上記のif文を三項演算子で書き直せ  
 
