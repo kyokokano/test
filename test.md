@@ -165,9 +165,9 @@ CSSにおける長さの単位で正しくないのは次のどれか？
 import java.util.*;
 int ran = new Random().nextInt(100)+1; 
 if(ran > 50){
-System.out.println("当たりです");
+ System.out.println("当たりです");
 }else{
-System.out.println("はずれです");
+ System.out.println("はずれです");
 }
 ```
 ranで出力される数字の範囲を答えよ  
