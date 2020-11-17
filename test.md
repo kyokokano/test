@@ -47,7 +47,7 @@ k
 
 (6)保存せずに終了する場合のコマンド
 
-(7)コマンドiとコマンドA（Shift＋a)の違いを説明せよ
+(7)コマンドaとコマンドA（Shift＋a)の違いを説明せよ
 
 (8)コマンドd$の機能を説明
 
@@ -125,7 +125,14 @@ CSSにおける長さの単位で正しくないのは次のどれか？
 (4)borderの外側にpaddingがある。  
 
 **Java(50)**
-javaは何スコープか
-int[][]nums = 
+java```
+import java.util.*;
+public class Q1{
+  public static void main(String[] args){
+  
+  }
+}
+
+```
 
 
